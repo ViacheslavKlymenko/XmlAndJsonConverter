@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Laqqq",
+      "lastName": "qeq",
+      "id": 1,
+      "login": "aaa",
+      "password": "1111"
+    },
+    {
+      "firstName": "Lawwww",
+      "lastName": "Puk",
+      "id": 1,
+      "login": "wer",
+      "password": "4444"
+    },
+    {
+      "firstName": "Lwrw",
+      "lastName": "Pqwk",
+      "id": 1,
+      "login": "wer",
+      "password": "3333"
+    },
+    {
+      "firstName": "Lqwr",
+      "lastName": "wrk",
+      "id": 1,
+      "login": "tww",
+      "password": "2222"
+    }
+  ]
+}

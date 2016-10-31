@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<All-users>
+    <user>
+        <id>1</id>
+        <login>aaa</login>
+        <name>Laqqq qeq</name>
+        <password>1111</password>
+    </user>
+    <user>
+        <id>1</id>
+        <login>wer</login>
+        <name>Lawwww Puk</name>
+        <password>4444</password>
+    </user>
+    <user>
+        <id>1</id>
+        <login>wer</login>
+        <name>Lwrw Pqwk</name>
+        <password>3333</password>
+    </user>
+    <user>
+        <id>1</id>
+        <login>tww</login>
+        <name>Lqwr wrk</name>
+        <password>2222</password>
+    </user>
+</All-users>
